@@ -25,4 +25,4 @@ Username: AMOGUS
 
 Password: amog-os-lts
 
-
+Download At https://sites.google.com/view/amog-os-lts/
