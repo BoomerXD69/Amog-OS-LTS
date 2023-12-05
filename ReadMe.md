@@ -23,6 +23,6 @@ LOG-IN DETAILS
 
 Username: AMOGUS
 
-Password: Amog-OS-LTS
+Password: amog-os-lts
 
 
