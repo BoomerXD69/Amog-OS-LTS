@@ -19,3 +19,10 @@ I found my new main OS -MattKC
 WTF IS THIS - Salty Chips
 
 
+LOG-IN DETAILS
+
+Username: AMOGUS
+
+Password: Amog-OS-LTS
+
+
